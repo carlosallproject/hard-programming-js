@@ -1,0 +1,14 @@
+{
+  "name": "hard-programming-js",
+  "version": "1.0.0",
+  "description": "Hard Programming Java Script",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carlosgit2016",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
+}
